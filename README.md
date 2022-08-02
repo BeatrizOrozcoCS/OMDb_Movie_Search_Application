@@ -10,5 +10,5 @@ Each result will contain a title, media type, year realeased, IMDb link, and a m
 
 
 ![image](https://user-images.githubusercontent.com/51274827/182291606-4076918a-3f5a-49ed-a407-f63d101f0437.png)
-
+![image](https://user-images.githubusercontent.com/51274827/182291882-a3fe0e98-5013-4c94-a46a-0e69fae78ff9.png)
 ![image](https://user-images.githubusercontent.com/51274827/182291627-ec4ed0f3-cdd8-44e5-a38d-290da534d17c.png)
