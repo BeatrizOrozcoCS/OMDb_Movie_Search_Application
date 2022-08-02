@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.pagination {
+  display: inline-block;
+}
+
+.w3-container a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
