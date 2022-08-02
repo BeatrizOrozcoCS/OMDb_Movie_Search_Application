@@ -4,7 +4,7 @@ This is a movie search application using the free OMDb (Open Movie Database) API
 
 ![image](https://user-images.githubusercontent.com/51274827/182291251-78ec4f4d-d6d7-4016-8dce-b82606e65731.png)
 
-This will utilize jQuery for DOM manipulation, Ajax for asynchronously retrieving data based on the search criteria, JSON will be the return data type so you will work with JSON objects and use Bootstrap to make the application as attractive and responsive as possible. This application also implements paging for the results. Each page will have 10 results. 
+This will utilize jQuery for DOM manipulation, Ajax for asynchronously retrieving data based on the search criteria, JSON will be the return data type so you will work with JSON objects and use Bootstrap to make the application as attractive and responsive as possible. This application also implements paging for the results. Each page contains up to 10 results. 
 
 Each result will contain a title, media type, year realeased, IMDb link, and a movie poster image (if availble). 
 
