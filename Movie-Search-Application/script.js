@@ -126,7 +126,7 @@ $(document).ready(function() {
         for (i = 1; i <= Math.ceil(result.totalResults / 10); i++) {
           let pagenum_a = $("<a  </a>");
           pagenum_a.text(String(i));
-          pagenum_a.attr("href", "javascript:gotoPage(" + String(i) + ");");s
+          pagenum_a.attr("href", "javascript:gotoPage(" + String(i) + ");");
           pagenum_a.attr("id", "pages" + String(i));
           //console.log(String(i));
           $(".w3-bar").append(pagenum_a);
