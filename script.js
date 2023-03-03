@@ -21,7 +21,7 @@ $(document).ready(function() {
     let mName = $("#moviename").val();
     let mtype = $("#mediatype").val();
     //Urls to use
-    let OMDbUrl = "https://www.omdbapi.com/?s=" + mName + "&type=" + mtype + "&apikey=b5ed8a76&page=" + page; //&page=1 - default
+    let OMDbUrl = "https://www.omdbapi.com/?s=" + mName + "&type=" + mtype + "&apikey=xxxxxxxxxxxxxxxx&page=" + page; //&page=1 - default
 
     let IMDbUrl = "https://www.imdb.com/title/";
 
