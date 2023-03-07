@@ -1,13 +1,12 @@
 # OMDb_Movie_Search_Application
 # https://Movie-Search-Application.beor.repl.co
 This is a movie search application using the free OMDb (Open Movie Database) API. This application will consist of a search field, a dropdown for the movie/series/episode type and a search button. Upon clicking the button, you will populate the page with movie/show/series titles that match the search criteria and type. The search results will contain the poster art, title, type, year and a link to IMDb, the commercial database of all film productions.
-
-
-![image](https://user-images.githubusercontent.com/51274827/182291251-78ec4f4d-d6d7-4016-8dce-b82606e65731.png)
-
 This project utilizes jQuery for DOM manipulation, Ajax for asynchronously retrieving data based on the search criteria.This application also implements paging for the results. Each page contains up to 10 results. 
 
 Each result will contain a title, media type, year realeased, IMDb link, and a movie poster image (if availble). 
+
+
+![image](https://user-images.githubusercontent.com/51274827/182291251-78ec4f4d-d6d7-4016-8dce-b82606e65731.png)
 
 
 ![image](https://user-images.githubusercontent.com/51274827/182291989-22a52b3e-d598-485f-9a54-66ce94db0b08.png)
